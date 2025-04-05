@@ -1,1 +1,1 @@
-API_bot = '7872040280:AAH6MxsljJxXD5EA3EkEDq9fx7OtmKfA-kw'
+API_bot = 'YOUR-API-KEY'
